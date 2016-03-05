@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiatibullian01ullrgoog_0100.png"; bbox 0 0 3075 5100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 3075 5088">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 3075 5088">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 3075 5088; baseline 0 -447"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 3075 5088; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 4771 2712 5100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 4771 2712 5100">
+     <span class='ocr_line' id='line_1_2' title="bbox 2043 4771 2712 4896; baseline 0.018 -37"><span class='ocrx_word' id='word_1_2' title='bbox 2043 4823 2219 4869; x_wconf 60' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_3' title='bbox 2239 4824 2283 4869; x_wconf 68' lang='lat' dir='ltr'>noy</span> <span class='ocrx_word' id='word_1_4' title='bbox 2298 4771 2607 4896; x_wconf 71' lang='lat' dir='ltr'>GOOgl</span> <span class='ocrx_word' id='word_1_5' title='bbox 2622 4799 2666 4862; x_wconf 61' lang='grc' dir='ltr'>’ῗῖξξῖἶ</span> <span class='ocrx_word' id='word_1_6' title='bbox 2696 4805 2712 4871; x_wconf 71' lang='grc' dir='ltr'>ἶ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 0 4794 1453 5100; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 0 4794 1320 5100; x_wconf 47' lang='grc' dir='ltr'>μ-</span> <span class='ocrx_word' id='word_1_8' title='bbox 1344 5085 1453 5100; x_wconf 73' lang='grc'>.-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
